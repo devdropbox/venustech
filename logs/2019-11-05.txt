@@ -1,0 +1,12 @@
+[05-Nov-2019 14:28:04 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Users/imacsuper/Documents/www/public/index.php(58): Core\Router->dispatch('producd')
+#1 {main}
+Thrown in '/Users/imacsuper/Documents/www/Core/Router.php' on line 136
+[05-Nov-2019 16:29:48 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Users/imacsuper/Documents/www/public/index.php(58): Core\Router->dispatch('apple-touch-ico...')
+#1 {main}
+Thrown in '/Users/imacsuper/Documents/www/Core/Router.php' on line 136
+[05-Nov-2019 16:29:48 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Users/imacsuper/Documents/www/public/index.php(58): Core\Router->dispatch('apple-touch-ico...')
+#1 {main}
+Thrown in '/Users/imacsuper/Documents/www/Core/Router.php' on line 136
